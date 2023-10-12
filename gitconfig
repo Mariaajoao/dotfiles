@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = mjafonso1997@gmail.com
+	name = Maria Joao
